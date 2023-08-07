@@ -1,0 +1,31 @@
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+/* Form styles */
+.wrapper {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.field {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

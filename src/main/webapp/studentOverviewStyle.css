@@ -1,0 +1,54 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+/* Wrapper styles */
+.wrapper {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Table styles */
+.container {
+    margin-top: 20px;
+}
+
+.table {
+    background-color: #ffffff;
+}
+
+.table th {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.text-secondary {
+    color: #6c757d;
+}
+
+.text-success {
+    color: #28a745;
+}
+
+.text-danger {
+    color: #dc3545;
+}

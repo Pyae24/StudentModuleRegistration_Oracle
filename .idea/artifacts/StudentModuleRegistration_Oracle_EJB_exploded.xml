@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="StudentModuleRegistration_Oracle:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentModuleRegistration_Oracle_EJB_exploded</output-path>
+    <root id="root">
+      <element id="module-output" name="StudentModuleRegistration_Oracle" />
+      <element id="javaee-facet-resources" facet="StudentModuleRegistration_Oracle/ejb/EJB" />
+    </root>
+  </artifact>
+</component>
